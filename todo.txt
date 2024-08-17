@@ -1,0 +1,7 @@
+ - Próximos passos -
+
+ Ainda dá para melhorar o app, então aqui vão algumas features que podem ser implementadas:
+
+    º Modificar tamanho da senha com um componente de Range.
+    º Fazer tela inicial, que irá redirecionar o usuário para a tela de geração de senha.
+    º Gerar senha através da tabela ASCII.
